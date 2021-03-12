@@ -219,11 +219,11 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *FADHIL GRAPHY* <partner>
 ┣⊱ *MHANKBARBARS* <sc ori>
 ┣⊱ *MYBOT TEAM* <team>
+┃  *FxAngga*   <team>
+┣⊱ NOTE : Jangan ngemisss
 ┃
-┣⊱ NOTE : TQTO DI HAPUS
-┃ GW GAK UP LAGI OKE
 ┃
-┗━━⊱  ⸨ *NisaNisaer-BOT* ⸩  ⊰━━━━┛
+┗━━⊱  ⸨ *Nisa-BOT* ⸩  ⊰━━━━┛
 `
 }
 
