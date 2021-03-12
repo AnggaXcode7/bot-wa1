@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "Angga bot",
   "version": "1.0.0",
-  "description": "Xbot for whatsapp online with termux",
+  "description": "FxBot for whatsapp online with termux",
   "main": "index.js",
   "directories": {
     "lib": "lib"
