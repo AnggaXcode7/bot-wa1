@@ -2,7 +2,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv4
+> git clone https://github.com/FxAngga/bot-wa1
 ```
 
 ## Install the dependencies:
@@ -10,7 +10,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botwasapv4
+> cd bot-wa1
 > bash install.sh
 ```
 
@@ -124,8 +124,7 @@ you've just cloned!!
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
+* [`WhatsApp`](wa.me/62852834278600)
 ### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +6282334297175`]
+* [`Dana : 085283427860`]
+* [`Gopay : 085283427860`]
